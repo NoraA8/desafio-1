@@ -2,4 +2,4 @@
 
 ## Revisa Aqui
 
-- [Puedes Revisarlo Aqui](https://github.com/NoraA8/test-git.git)
+- [Puedes Revisarlo Aqui](https://NoraA8.github.io/test-git.git)
